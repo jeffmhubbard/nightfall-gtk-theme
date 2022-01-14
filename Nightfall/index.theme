@@ -1,0 +1,11 @@
+[Desktop Entry]
+Type=X-GNOME-Metatheme
+Name=Nightfall
+Comment=The long night has come again.
+Encoding=UTF-8
+
+[X-GNOME-Metatheme]
+Name=Nightfall
+GtkTheme=Nightfall
+IconTheme=Nightfall
+MetacityTheme=Nightfall
